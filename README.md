@@ -1,2 +1,2 @@
-# EEG-Epilepsy---Classification: This is a project in machine learning
-the project will classify epilepsy
+# Countries Classification: This is a project in machine learning
+the project will classify countries according to giving maps
