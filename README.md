@@ -38,7 +38,7 @@ The transformer attention mechanism enables the model to capture long-range spat
 
 Optimizer: AdamW  
 Loss Function: CrossEntropyLoss  
-Learning Rate: 1e-4  
+Learning Rate: 2e-5 
 Data Augmentation:
 - Random Horizontal Flip (p=0.5)
 - Random Rotation (±15°)
